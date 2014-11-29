@@ -7,4 +7,9 @@ TimeLine
 
 这里只是提供了一些假数据，数据是写死在程序里面的，真实应用的时候，需要从服务器获取数据。
 
+下面是效果图
+
+
+![Image 效果图](http://raw.github.com/ljtyzhr/TimeLine/master/example.png)
+
 
